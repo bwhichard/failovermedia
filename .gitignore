@@ -1,0 +1,6 @@
+.DS_Store
+*.key/
+leads.db
+leadtracking/
+*.csv
+draft-email.txt
