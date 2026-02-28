@@ -11,9 +11,9 @@ Failover Media is a B2B podcast network that bundles three enterprise technology
 ## The Podcast Network
 
 ### The Reasoning Show (formerly The Cloudcast)
-- **Website:** https://thecloudcast.net
+- **Website:** https://www.reasoning.show/
 - **Hosts:** Aaron Delp, Brian Gracely
-- **Description:** Builds on 15 years of The Cloudcast's success. Focused on AI and cloud computing.
+- **Description:** The industry's #1 AI podcast. Explores how leaders think through AI, technology, and transformation.
 
 ### Software Defined Talk
 - **Website:** https://www.softwaredefinedtalk.com
@@ -36,7 +36,7 @@ Failover Media is a B2B podcast network that bundles three enterprise technology
 
 ### Artwork Files
 - `SDT Square Medium.jpg` - Software Defined Talk podcast artwork
-- `The_Cloudcast_Artwork.png` - The Cloudcast artwork (from RSS feed)
+- `reasoning-logo.png` - The Reasoning Show artwork
 - `The_Cloudpod_Artwork.png` - The Cloud Pod artwork (from RSS feed)
 
 ## Design System
