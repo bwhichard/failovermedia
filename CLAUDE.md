@@ -10,10 +10,10 @@ Failover Media is a B2B podcast network that bundles three enterprise technology
 
 ## The Podcast Network
 
-### The Reasoning Show (formerly The Cloudcast)
-- **Website:** https://www.reasoning.show/
+### The Enterprise AI Show (formerly The Reasoning Show)
+- **Website:** https://theenterpriseaishow.com/
 - **Hosts:** Aaron Delp, Brian Gracely
-- **Description:** The industry's #1 AI podcast. Explores how leaders think through AI, technology, and transformation.
+- **Description:** Weekly insights with the founders, executives, and engineers shaping the future of AI in the enterprise.
 
 ### Software Defined Talk
 - **Website:** https://www.softwaredefinedtalk.com
@@ -36,7 +36,7 @@ Failover Media is a B2B podcast network that bundles three enterprise technology
 
 ### Artwork Files
 - `SDT Square Medium.jpg` - Software Defined Talk podcast artwork
-- `reasoning-logo.png` - The Reasoning Show artwork
+- `reasoning-logo.png` - The Enterprise AI Show artwork (filename retained; replace with new logo when available)
 - `The_Cloudpod_Artwork.png` - The Cloud Pod artwork (from RSS feed)
 
 ## Design System
