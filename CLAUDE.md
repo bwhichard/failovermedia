@@ -11,7 +11,7 @@ Failover Media is a B2B podcast network that bundles three enterprise technology
 ## The Podcast Network
 
 ### The Enterprise AI Show (formerly The Reasoning Show)
-- **Website:** https://theenterpriseaishow.com/
+- **Website:** https://theenterpriseai.show/
 - **Hosts:** Aaron Delp, Brian Gracely
 - **Description:** Weekly insights with the founders, executives, and engineers shaping the future of AI in the enterprise.
 
